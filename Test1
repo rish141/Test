@@ -1,0 +1,10 @@
+<style>
+    p {
+        color: blue;
+    }
+    </style>
+    <p>I am blue</p>
+    <p class="example">I am also blue</p>
+    <p id="last" class="example">I am blue as well</p>
+
+
